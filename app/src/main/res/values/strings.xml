@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mtgcount</string>
+    <string name="lifeScore1">lifeScore1</string>
+    <string name="lifeScore2">lifeScore2</string>
+    <string name="lifeScore3">lifeScore3</string>
+    <string name="lifeScore4">lifeScore4</string>
+</resources>
